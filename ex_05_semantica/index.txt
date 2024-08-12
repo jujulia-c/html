@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang = "pt-br">
+<head>
+	<!-- Renderiza caracteres especiais corretamente -->
+	<neta charset='"UTF-8">
+	<!-- Permite reconhecer quando aberto em tela menor-->
+	<meta name="viewport" content="width=device-width,initial-scale=1.0">
+	<title>Semântica</title>
+	<!--exemplo de uso do SEO "Search Engine Optimization" técnica para melhorar os posicionamentos nos resultados de pesquisa em navegadores--> 
+</head>
+<boby> 
+</boby>
